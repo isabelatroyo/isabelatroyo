@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @isabelatroyo
-- 👀 I’m interested in BI and data 
-- 🌱 I’m currently learning SqL
+👋 Hi, I’m @isabelatroyo  
+- 👀 I’m interested in BI and data  
+- 🌱 I’m currently learning SQL  
 - 😄 Pronouns: she/her
+  
+![GIF do meu perfil](https://github.com/isabelatroyo/isabelatroyo/blob/main/be6ded46b365626b0812a41b75875d59.gif?raw=true)  
 
-
-<!---
-isabelatroyo/isabelatroyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
